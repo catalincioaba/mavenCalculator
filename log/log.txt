@@ -1,0 +1,291 @@
+2023-01-05 11:37:01,754 INFO c.e.a.Log4jExample [main] Doing something with Java
+"11:39:19.130 [main] INFO  com.endava.apache.Log4jExample - Doing something with Java
+11:39:40.887 [main] INFO  com.endava.apache.Log4jExample - Doing something with Java
+13:31:49.081 [main] INFO  com.endava.google.gsonExample - {"amount":100.0,"currency":"RON","cardNumber":"45263655565","customerName":"Johnny Bravo"}
+13:36:51.356 [main] INFO  com.endava.google.gsonExample - {
+  "amount": 100.0,
+  "currency": "RON",
+  "cardNumber": "45263655565",
+  "customerName": "Johnny Bravo"
+}
+13:37:34.646 [main] INFO  com.endava.google.gsonExample - 
+ {
+  "amount": 100.0,
+  "currency": "RON",
+  "cardNumber": "45263655565",
+  "customerName": "Johnny Bravo"
+}
+13:37:45.445 [main] INFO  com.endava.google.gsonExample - 
+{
+  "amount": 100.0,
+  "currency": "RON",
+  "cardNumber": "45263655565",
+  "customerName": "Johnny Bravo"
+}
+13:40:34.507 [main] INFO  com.endava.google.gsonExample - 
+{
+  "amount": 100.0,
+  "currency": "RON",
+  "cardNumber": "45263655565",
+  "customerName": "Johnny Bravo"
+}
+13:40:34.511 [main] INFO  com.endava.google.gsonExample - true
+13:42:16.572 [main] INFO  com.endava.google.gsonExample - 
+{
+  "amount": 100.0,
+  "currency": "RON",
+  "cardNumber": "45263655565",
+  "customerName": "Johnny Bravo"
+}
+13:42:16.575 [main] INFO  com.endava.google.gsonExample - true
+13:42:16.575 [main] INFO  com.endava.google.gsonExample - 45263655565
+13:50:59.556 [main] INFO  com.endava.jackson.JacksonExample - {"amount":200.5,"currency":"EUR","cardNumber":"3255698489","customerName":"Johnny Walker"}
+13:53:11.307 [main] INFO  com.endava.jackson.JacksonExample - {"amount":200.5,"currency":"EUR","cardNumber":"3255698489","customerName":"Johnny Walker"}
+13:53:11.326 [main] INFO  com.endava.jackson.JacksonExample - true
+13:57:23.367 [main] INFO  com.endava.jackson.JacksonExample - {
+  "amount" : 200.5,
+  "currency" : "EUR",
+  "cardNumber" : "3255698489",
+  "customerName" : "Johnny Walker"
+}
+13:57:23.385 [main] INFO  com.endava.jackson.JacksonExample - true
+15:16:57.380 [main] INFO  com.endava.apache.DBConnection - com.mysql.cj.jdbc.result.ResultSetImpl@1583741e
+15:18:26.752 [main] INFO  com.endava.apache.DBConnection - com.mysql.cj.jdbc.result.ResultSetImpl@51549490
+15:35:24.940 [main] INFO  com.endava.apache.DBConnection - 1 George
+15:35:24.942 [main] INFO  com.endava.apache.DBConnection - 2 Betty
+15:35:24.942 [main] INFO  com.endava.apache.DBConnection - 3 Eduardo
+15:35:24.942 [main] INFO  com.endava.apache.DBConnection - 4 Harold
+15:35:24.942 [main] INFO  com.endava.apache.DBConnection - 5 Peter
+15:35:24.942 [main] INFO  com.endava.apache.DBConnection - 6 Jean
+15:35:24.942 [main] INFO  com.endava.apache.DBConnection - 7 Jeff
+15:35:24.942 [main] INFO  com.endava.apache.DBConnection - 8 Maria
+15:35:24.942 [main] INFO  com.endava.apache.DBConnection - 9 David
+15:35:24.942 [main] INFO  com.endava.apache.DBConnection - 10 Carlos
+15:35:24.943 [main] INFO  com.endava.apache.DBConnection - com.mysql.cj.jdbc.result.ResultSetImpl@6239aba6
+15:36:07.184 [main] INFO  com.endava.apache.DBConnection - 1 George
+15:36:07.186 [main] INFO  com.endava.apache.DBConnection - 2 Betty
+15:36:07.186 [main] INFO  com.endava.apache.DBConnection - 3 Eduardo
+15:36:07.186 [main] INFO  com.endava.apache.DBConnection - 4 Harold
+15:36:07.186 [main] INFO  com.endava.apache.DBConnection - 5 Peter
+15:36:07.186 [main] INFO  com.endava.apache.DBConnection - 6 Jean
+15:36:07.186 [main] INFO  com.endava.apache.DBConnection - 7 Jeff
+15:36:07.186 [main] INFO  com.endava.apache.DBConnection - 8 Maria
+15:36:07.186 [main] INFO  com.endava.apache.DBConnection - 9 David
+15:36:07.186 [main] INFO  com.endava.apache.DBConnection - 10 Carlos
+15:36:07.187 [main] INFO  com.endava.apache.DBConnection - com.mysql.cj.jdbc.result.ResultSetImpl@1339e7aa
+15:37:22.562 [main] INFO  com.endava.apache.DBConnection - 5 Peter
+15:37:22.563 [main] INFO  com.endava.apache.DBConnection - com.mysql.cj.jdbc.result.ResultSetImpl@1339e7aa
+00:13:50.113 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNoOperands()
+00:13:50.119 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNoOperands()
+00:13:50.125 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddMoreThan2Operands()
+00:13:50.125 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddMoreThan2Operands()
+00:13:50.126 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNumbersGivenOperand0()
+00:13:50.126 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNumbersGivenOperand0()
+00:13:50.127 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNegativeNumbers()
+00:13:50.127 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNegativeNumbers()
+00:13:50.128 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddOneOperand()
+00:13:50.128 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddOneOperand()
+00:13:50.129 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNumbersGivenBigNumbers()
+00:13:50.129 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNumbersGivenBigNumbers()
+00:37:17.994 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNoOperands()
+00:37:17.999 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNoOperands()
+00:37:18.006 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddMoreThan2Operands()
+00:37:18.006 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddMoreThan2Operands()
+00:37:18.007 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNumbersGivenOperand0()
+00:37:18.008 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNumbersGivenOperand0()
+00:37:18.009 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNegativeNumbers()
+00:37:18.009 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNegativeNumbers()
+00:37:18.010 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddOneOperand()
+00:37:18.010 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddOneOperand()
+00:37:18.011 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNumbersGivenBigNumbers()
+00:37:18.011 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNumbersGivenBigNumbers()
+00:37:44.348 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNoOperands()
+00:37:44.352 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNoOperands()
+00:37:44.358 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddMoreThan2Operands()
+00:37:44.358 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddMoreThan2Operands()
+00:37:44.360 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNumbersGivenOperand0()
+00:37:44.360 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNumbersGivenOperand0()
+00:37:44.361 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNegativeNumbers()
+00:37:44.361 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNegativeNumbers()
+00:37:44.363 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddOneOperand()
+00:37:44.363 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddOneOperand()
+00:37:44.364 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNumbersGivenBigNumbers()
+00:37:44.364 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNumbersGivenBigNumbers()
+00:56:18.699 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNoOperands()
+00:56:18.704 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNoOperands()
+00:56:18.710 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddMoreThan2Operands()
+00:56:18.711 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddMoreThan2Operands()
+00:56:18.713 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNumbersGivenOperand0()
+00:56:18.713 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNumbersGivenOperand0()
+00:56:18.715 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNegativeNumbers()
+00:56:18.715 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNegativeNumbers()
+00:56:18.716 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddOneOperand()
+00:56:18.716 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddOneOperand()
+00:56:18.717 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNumbersGivenBigNumbers()
+00:56:18.718 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNumbersGivenBigNumbers()
+00:56:19.627 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorIT/shouldAddNoOperands()
+00:56:19.631 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorIT/shouldAddNoOperands()
+00:56:19.637 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorIT/shouldAddMoreThan2Operands()
+00:56:19.637 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorIT/shouldAddMoreThan2Operands()
+00:56:19.638 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorIT/shouldAddNumbersGivenOperand0()
+00:56:19.639 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorIT/shouldAddNumbersGivenOperand0()
+00:56:19.641 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorIT/shouldAddNegativeNumbers()
+00:56:19.641 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorIT/shouldAddNegativeNumbers()
+00:56:19.642 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorIT/shouldAddOneOperand()
+00:56:19.643 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorIT/shouldAddOneOperand()
+00:56:19.644 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorIT/shouldAddNumbersGivenBigNumbers()
+00:56:19.644 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorIT/shouldAddNumbersGivenBigNumbers()
+01:06:53.779 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNumbersGivenOperand0()
+01:06:53.789 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNumbersGivenOperand0()
+01:06:53.795 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNegativeNumbers()
+01:06:53.795 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNegativeNumbers()
+01:06:53.798 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNumbersGivenBigNumbers()
+01:06:53.798 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNumbersGivenBigNumbers()
+01:07:37.050 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNumbersGivenOperand0()
+01:07:37.055 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNumbersGivenOperand0()
+01:07:37.061 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNegativeNumbers()
+01:07:37.062 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNegativeNumbers()
+14:27:58.644 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNoOperands()
+14:27:58.652 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNoOperands()
+14:27:58.660 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddMoreThan2Operands()
+14:27:58.661 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddMoreThan2Operands()
+14:27:58.684 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNegativeNumbers()
+14:27:58.685 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNegativeNumbers()
+14:27:58.686 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddOneOperand()
+14:27:58.686 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddOneOperand()
+14:27:58.688 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNumbersGivenBigNumbers()
+14:27:58.688 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNumbersGivenBigNumbers()
+14:31:32.580 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNoOperands()
+14:31:32.586 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNoOperands()
+14:31:32.592 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddMoreThan2Operands()
+14:31:32.593 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddMoreThan2Operands()
+14:31:32.622 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[1] 0, 2
+14:31:32.637 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[1] 0, 2
+14:31:32.641 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[2] 2, 0
+14:31:32.642 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[2] 2, 0
+14:31:32.643 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNegativeNumbers()
+14:31:32.643 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNegativeNumbers()
+14:31:32.644 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddOneOperand()
+14:31:32.645 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddOneOperand()
+14:31:32.645 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNumbersGivenBigNumbers()
+14:31:32.646 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNumbersGivenBigNumbers()
+14:31:52.484 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[1] 0, 2
+14:31:52.502 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[1] 0, 2
+14:31:52.511 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[2] 2, 0
+14:31:52.512 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[2] 2, 0
+14:37:23.255 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[1] 0, 2
+14:37:23.270 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[1] 0, 2
+14:37:23.279 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[2] 3, 0
+14:37:23.282 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[2] 3, 0
+14:37:42.870 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[1] 0, 2
+14:37:42.888 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[1] 0, 2
+14:37:42.898 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[2] 2, 0
+14:37:42.898 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[2] 2, 0
+15:47:32.254 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[1] numberSource.csv
+15:47:32.266 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[1] numberSource.csv
+15:54:41.037 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[1] 1
+15:54:41.050 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[1] 1
+15:54:41.062 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[2] 2
+15:54:41.063 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[2] 2
+15:55:21.724 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[1] 1, 2, 3
+15:55:21.741 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[1] 1, 2, 3
+15:55:21.753 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[2] 2, 4, 5
+15:55:21.754 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[2] 2, 4, 5
+15:55:30.414 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[1] 1, 2, 3
+15:55:30.427 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[1] 1, 2, 3
+15:55:30.437 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[2] 2, 4, 5
+15:55:30.437 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[2] 2, 4, 5
+16:01:25.459 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[1] 1, 2, 3
+16:01:25.472 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[1] 1, 2, 3
+16:01:25.480 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[2] 2, 4, 5
+16:01:25.482 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[2] 2, 4, 5
+16:01:25.483 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[3] 6, 7, 8
+16:01:25.484 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[3] 6, 7, 8
+16:02:36.828 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[1] 0, 2
+16:02:36.848 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[1] 0, 2
+16:02:36.861 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[2] 3, 0
+16:02:36.862 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[2] 3, 0
+16:02:52.829 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[1] 0, 2
+16:02:52.844 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[1] 0, 2
+16:02:52.857 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[2] 3, 0
+16:02:52.858 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[2] 3, 0
+16:03:05.402 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[1] 0, 2
+16:03:05.417 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[1] 0, 2
+16:03:05.431 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[2] 3, 0
+16:03:05.431 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[2] 3, 0
+16:03:24.029 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[1] 0, 2
+16:03:24.049 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[1] 0, 2
+16:03:24.061 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[2] 3, 0
+16:03:24.062 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[2] 3, 0
+16:03:44.862 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[1] 0, 2
+16:03:44.877 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[1] 0, 2
+16:03:44.886 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[2] 3, 0
+16:03:44.888 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[2] 3, 0
+16:03:53.274 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[1] 0, 2
+16:03:53.288 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[1] 0, 2
+16:03:53.295 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[2] 2, 0
+16:03:53.296 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[2] 2, 0
+16:08:42.192 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[1] 1, 2, 3
+16:08:42.203 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[1] 1, 2, 3
+16:08:42.211 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[2] 2, 4, 5
+16:08:42.211 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[2] 2, 4, 5
+16:08:42.276 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[3] 1, 2, 3
+16:08:42.276 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[3] 1, 2, 3
+16:08:42.278 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[4] 2, 4, 5
+16:08:42.279 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[4] 2, 4, 5
+16:08:42.280 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[5] 6, 7, 8
+16:08:42.281 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[5] 6, 7, 8
+16:43:55.136 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNegativeNumbers()
+16:43:55.141 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNegativeNumbers()
+16:46:42.113 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldMultiplyNumbers2Operands()
+16:46:42.119 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldMultiplyNumbers2Operands()
+16:48:06.421 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldMultiplyNumbersOperandZero()
+16:48:06.426 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldMultiplyNumbersOperandZero()
+16:50:01.322 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldMultiplyNegativeNumbers()
+16:50:01.327 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldMultiplyNegativeNumbers()
+16:51:04.314 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldMultiplyNumbersNegativeOperand()
+16:51:04.320 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldMultiplyNumbersNegativeOperand()
+16:52:44.806 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldMultiplyMoreThanTwoOperands()
+16:52:44.811 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldMultiplyMoreThanTwoOperands()
+17:04:06.925 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test RaiseToPowerCalculatorTest/shouldRaiseToPowerBaseAndExponentPositive()
+17:04:06.931 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test RaiseToPowerCalculatorTest/shouldRaiseToPowerBaseAndExponentPositive()
+17:05:49.637 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test RaiseToPowerCalculatorTest/shouldRaiseToPowerBasePozExponentNeg()
+17:05:49.641 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test RaiseToPowerCalculatorTest/shouldRaiseToPowerBasePozExponentNeg()
+17:07:08.055 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test RaiseToPowerCalculatorTest/shouldRaiseToPowerBasePozExponentNeg()
+17:07:08.063 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test RaiseToPowerCalculatorTest/shouldRaiseToPowerBasePozExponentNeg()
+17:08:09.797 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test RaiseToPowerCalculatorTest/shouldRaiseToPowerExponentZero()
+17:08:09.803 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test RaiseToPowerCalculatorTest/shouldRaiseToPowerExponentZero()
+17:13:39.573 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test RaiseToPowerCalculatorTest/shouldRaiseToPowerBaseNegExponentPoz()
+17:13:39.579 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test RaiseToPowerCalculatorTest/shouldRaiseToPowerBaseNegExponentPoz()
+17:15:17.521 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test RaiseToPowerCalculatorTest/shouldRaiseToPowerBaseAndExponentNegative()
+17:15:17.529 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test RaiseToPowerCalculatorTest/shouldRaiseToPowerBaseAndExponentNegative()
+17:15:28.316 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test RaiseToPowerCalculatorTest/shouldRaiseToPowerBaseAndExponentNegative()
+17:15:28.324 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test RaiseToPowerCalculatorTest/shouldRaiseToPowerBaseAndExponentNegative()
+17:15:45.110 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test RaiseToPowerCalculatorTest/shouldRaiseToPowerBaseAndExponentNegative()
+17:15:45.119 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test RaiseToPowerCalculatorTest/shouldRaiseToPowerBaseAndExponentNegative()
+17:24:00.344 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test RaiseToPowerCalculatorTest/shouldRaiseToPowerBaseAndExponentNegative()
+17:24:00.353 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test RaiseToPowerCalculatorTest/shouldRaiseToPowerBaseAndExponentNegative()
+17:24:44.280 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test RaiseToPowerCalculatorTest/shouldRaiseToPowerBaseAndExponentNegative()
+17:24:44.289 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test RaiseToPowerCalculatorTest/shouldRaiseToPowerBaseAndExponentNegative()
+17:25:38.802 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test RaiseToPowerCalculatorTest/shouldRaiseToPowerBaseAndExponentNegative()
+17:25:38.811 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test RaiseToPowerCalculatorTest/shouldRaiseToPowerBaseAndExponentNegative()
+17:25:50.087 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test RaiseToPowerCalculatorTest/shouldRaiseToPowerBaseAndExponentNegative()
+17:25:50.094 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test RaiseToPowerCalculatorTest/shouldRaiseToPowerBaseAndExponentNegative()
+17:33:21.973 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test FactorialCalculatorTest/shouldCalculateFactorialPositiveNumbers()
+17:33:21.981 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test FactorialCalculatorTest/shouldCalculateFactorialPositiveNumbers()
+17:33:35.043 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test FactorialCalculatorTest/shouldCalculateFactorialPositiveNumbers()
+17:33:35.050 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test FactorialCalculatorTest/shouldCalculateFactorialPositiveNumbers()
+17:38:15.719 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test FactorialCalculatorTest/shouldCalculateFactorial()
+17:38:15.728 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test FactorialCalculatorTest/shouldCalculateFactorial()
+17:40:04.873 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test FactorialCalculatorTest/shouldCalculateFactorial()
+17:40:04.878 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test FactorialCalculatorTest/shouldCalculateFactorial()
+17:40:12.926 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test FactorialCalculatorTest/shouldCalculateFactorial()
+17:40:12.931 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test FactorialCalculatorTest/shouldCalculateFactorial()
+17:44:52.019 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test FactorialCalculatorTest/shouldCalculateFactRecursive()
+17:44:52.023 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test FactorialCalculatorTest/shouldCalculateFactRecursive()
+17:51:54.436 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[1] 0, 2
+17:51:54.448 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[1] 0, 2
+17:51:54.456 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/[2] 2, 0
+17:51:54.456 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/[2] 2, 0
+17:51:54.457 [main] INFO  com.endava.extensions.TestReporterExtensions - Starting test CalculatorTest/shouldAddNegativeNumbers()
+17:51:54.458 [main] INFO  com.endava.extensions.TestReporterExtensions - Finishing test CalculatorTest/shouldAddNegativeNumbers()
